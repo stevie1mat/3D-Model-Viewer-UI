@@ -9,4 +9,4 @@
 
 # Screenshots
 
-<img src="https://github.com/stevie1mat/3D-Model-Viewer-UI/blob/main/tia5954353322407134483.png">
+<img src="https://github.com/stevie1mat/3D-Model-Viewer-UI/blob/main/tia5954353322407134483.png" height="600">
